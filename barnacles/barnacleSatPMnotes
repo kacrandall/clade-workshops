@@ -1,0 +1,30 @@
+Barnacle group met as a whole to discuss the overall project further, define subgroups for targeted activities and then spent the rest of the afternoon working in the defined subgroups.  Andy gave an overview of barnacle fossil data and plate morphology evolution.  Chris gave overview of data format options.  Then we broke into three working groups (with some gene flow amongst the groups):
+  Phenotype Group - discussed phenotypic data layers
+    Morphology
+    -	larval morphology
+    -	arthropodal characters
+    -	skeletal characters
+    Reproductive biology
+    -	dioecy
+    -	androdioecy
+    -	pure hermpaphroditism
+    Habitat
+    - Benthonic deep sea
+    - Benthonic shelf sea
+    - Benthonic sublittoral
+    - Benthonic intertidal
+    Epiplanktonic
+    Epinektonic
+  Tree Group - organized phylogenetic information within OpenTree
+    - 29 total studies surveyed
+    - 13 phylogenies integrated into OpenTree/barnacle collection
+    - phylogenetic synthesis run on the 13 trees (thanks Karen!)
+    - repeat emails sent to colleagues for remaining trees
+  Genomics Group - discussed genomic and transcripomic data layers
+    - genome data availability
+    - annotation layers
+    - transcriptome layers
+    - focus on cementation candidate genes
+    - identify candidate genes for 2-3 other 'phenotypes' identified by phenotype group (perhaps from Daphnia genome effort)
+  We are now developing a phylogeny+morphology+geographic location+gene expression data set for analysis in Arbor.
+  
